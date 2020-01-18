@@ -26,7 +26,6 @@ mate-terminal
 mate-utils
 mate-notification-daemon
 mate-media
-mate-user-guide
 mate-system-monitor
 mate-power-manager
 pluma
@@ -111,7 +110,6 @@ xorg-xinit
 yelp
 caja-open-terminal
 >extra gtk3-print-backends
->extra manjaro-documentation-en
 >extra mate-themes
 >extra mate-tweak
 >extra mate-screensaver
@@ -150,7 +148,6 @@ timeshift 								#backup utility
 #>extra make
 #>extra patch
 #>extra subversion
-#>extra yaourt
 manjaro-aur-support
 
 xdg-user-dirs
