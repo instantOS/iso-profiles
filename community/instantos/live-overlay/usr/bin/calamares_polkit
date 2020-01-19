@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# add shellprocess to calamares
+if ! grep -q 'shellprocess' /etc/calamares/settings.conf; then
+    sed -i 's/postcfg$/postcfg\n        - shellprocess/g' /etc/calamares/settings.conf
+fi
+
 if ! ping google.com -c 2; then
     zenity --error --text="An internet connection is required to install instantOS\!" --title="Warning\!"
     exit
