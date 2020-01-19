@@ -119,19 +119,21 @@ class ConfigController:
 
         # Install Office Suite if selected (WIP)
         office_package = libcalamares.globalstorage.value("packagechooser_packagechooser")
+
+        self.mkdir("opt/mhwd")
+        self.mount("opt/mhwd")
+        self.mount("etc/resolv.conf")
+        
         if not office_package:
             libcalamares.utils.warning("no office suite selected, {!s}".format(office_package))
         else:
-            # For PoC we added the Office Packages to mhwd-live overlay in 18.1.0
             cmd = ["pacman", "-S", office_package, "--noconfirm", "--config", "/opt/mhwd/pacman-mhwd.conf" ]
-            self.mkdir("opt/mhwd")
-            self.mount("opt/mhwd")
-            self.mount("etc/resolv.conf")
             target_env_call(cmd)
-            target_env_call("bash", "/usr/bin/installinstantos")
-            self.umount("opt/mhwd")
-            self.rmdir("opt/mhwd")
-            self.umount("etc/resolv.conf")
+
+        target_env_call("bash", "/usr/bin/installinstantos")
+        self.umount("opt/mhwd")
+        self.rmdir("opt/mhwd")
+        self.umount("etc/resolv.conf")
 
         return None
 

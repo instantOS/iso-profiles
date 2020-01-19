@@ -16,15 +16,12 @@ kvantum-theme-matcha
 xcursor-breeze
 mate
 marco
-brisk-menu
 mate-notification-theme-slate
 mate-control-center
 mate-calc
 mate-desktop
 mate-terminal
 mate-utils
-mate-notification-daemon
-mate-media
 mate-system-monitor
 mate-power-manager
 pluma
@@ -108,15 +105,9 @@ xorg-xinit
 yelp
 caja-open-terminal
 >extra gtk3-print-backends
->extra mate-themes
->extra mate-tweak
->extra mate-screensaver
 #>extra libreoffice-fresh
->extra thunderbird
->extra lollypop
 >extra vlc
 >extra empathy
->extra uget
 >extra transmission-gtk
 >extra brasero
 >extra jre8-openjdk
