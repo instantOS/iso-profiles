@@ -9,7 +9,6 @@ lightdm
 lightdm-slick-greeter
 lightdm-settings
 grub-theme-manjaro
-mate-wallpapers
 mate-icon-theme
 papirus-maia-icon-theme
 matcha-gtk-theme
@@ -57,7 +56,6 @@ imagewriter
 libappindicator-gtk3
 manjaro-alsa
 manjaro-artwork
-manjaro-browser-settings
 manjaro-mate-settings
 manjaro-hotfixes
 manjaro-pulse
@@ -132,7 +130,6 @@ timeshift 								#backup utility
 >extra vala-panel-appmenu-mate
 >extra mate-applet-dock
 >extra mate-applets
->extra plank
 >extra ffmpegthumbnailer
 #>extra autoconf
 #>extra automake
