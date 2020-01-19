@@ -59,7 +59,6 @@ manjaro-pulse
 manjaro-settings-manager-notifier
 manjaro-hello
 >extra bauh
->extra snapd
 mesa-demos
 mobile-broadband-provider-info
 modemmanager
@@ -74,7 +73,6 @@ networkmanager-vpnc
 nss-mdns
 numlockx
 openresolv
-pamac
 powertop
 pulseaudio-bluetooth
 pulseaudio-ctl
@@ -106,7 +104,6 @@ yelp
 caja-open-terminal
 >extra gtk3-print-backends
 #>extra libreoffice-fresh
->extra vlc
 >extra empathy
 >extra transmission-gtk
 >extra brasero
