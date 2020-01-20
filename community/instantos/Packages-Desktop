@@ -1,6 +1,5 @@
 adwaita-icon-theme
 alsa-firmware
-dconf-editor
 dmidecode
 eom
 engrampa
@@ -8,7 +7,6 @@ firefox
 lightdm
 lightdm-slick-greeter
 lightdm-settings
-grub-theme-manjaro
 mate-icon-theme
 papirus-maia-icon-theme
 matcha-gtk-theme
@@ -57,7 +55,6 @@ manjaro-mate-settings
 manjaro-hotfixes
 manjaro-pulse
 manjaro-settings-manager-notifier
-manjaro-hello
 >extra bauh
 mesa-demos
 mobile-broadband-provider-info
@@ -90,7 +87,6 @@ ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
 manjaro-mate-panel-layout
-vino
 xdg-su
 xdg-user-dirs-gtk
 xdg-utils
@@ -106,7 +102,6 @@ caja-open-terminal
 #>extra libreoffice-fresh
 >extra empathy
 >extra transmission-gtk
->extra brasero
 >extra jre8-openjdk
 >extra jre8-openjdk-headless
 timeshift 								#backup utility
