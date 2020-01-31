@@ -8,27 +8,14 @@ lightdm
 lightdm-slick-greeter
 lightdm-settings
 grub-theme-manjaro
-mate-icon-theme
 papirus-maia-icon-theme
 matcha-gtk-theme
 kvantum-theme-matcha
 xcursor-breeze
-mate
-marco
-mate-notification-theme-slate
-mate-control-center
-mate-calc
-mate-desktop
-mate-terminal
-mate-utils
-mate-system-monitor
-mate-power-manager
-pluma
+gedit
 mozo
 gnome-disk-utility
 gnome-keyring
-manjaro-mate-settings
-manjaro-application-utility
 ranger
 pacui
 mhwd-tui
@@ -52,7 +39,6 @@ imagewriter
 libappindicator-gtk3
 manjaro-alsa
 manjaro-artwork
-manjaro-mate-settings
 manjaro-hotfixes
 manjaro-pulse
 manjaro-settings-manager-notifier
@@ -87,7 +73,6 @@ ttf-droid
 ttf-inconsolata
 ttf-indic-otf
 ttf-liberation
-manjaro-mate-panel-layout
 xdg-su
 xdg-user-dirs-gtk
 xdg-utils
@@ -111,9 +96,6 @@ timeshift 								#backup utility
 >extra steam-manjaro
 >extra manjaro-printer
 >extra blueman
->extra vala-panel-appmenu-mate
->extra mate-applet-dock
->extra mate-applets
 >extra ffmpegthumbnailer
 #>extra autoconf
 #>extra automake
