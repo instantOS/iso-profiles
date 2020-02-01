@@ -10,4 +10,4 @@ fi
 rm -rf ~/iso-profiles
 cp -r ~/workspace/iso-profiles ~/
 cd
-buildiso -p instantos
+buildiso -p instantos 2>&1 | tee ~/isobuild

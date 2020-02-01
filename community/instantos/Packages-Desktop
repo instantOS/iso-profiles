@@ -83,7 +83,6 @@ xf86-input-void
 xorg-twm
 xorg-xinit
 yelp
-caja-open-terminal
 >extra gtk3-print-backends
 #>extra libreoffice-fresh
 >extra empathy
@@ -118,7 +117,6 @@ xorg-server
 
 picom
 arc-gtk-theme
-acpi
 >extra xorg-xrandr
 slop
 xorg-xsetroot
