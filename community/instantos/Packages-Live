@@ -5,6 +5,5 @@ manjaro-live-systemd
 mkinitcpio-nfs-utils
 nbd
 clonezilla
-
-grub-theme-instantos
+>manjaro grub-theme-live-manjaro
 liveutils
