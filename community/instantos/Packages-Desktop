@@ -84,18 +84,15 @@ xorg-twm
 xorg-xinit
 yelp
 >extra gtk3-print-backends
-#>extra libreoffice-fresh
->extra empathy
->extra transmission-gtk
->extra jre8-openjdk
 >extra jre8-openjdk-headless
-timeshift 								#backup utility
 >extra kernel-alive 					#after a kernel update this maintain usable the modules
 >extra libdvdcss
 >extra steam-manjaro
 >extra manjaro-printer
 >extra blueman
 >extra ffmpegthumbnailer
+>extra pa-applet
+>extra network-manager-applet
 #>extra autoconf
 #>extra automake
 #>extra binutils
