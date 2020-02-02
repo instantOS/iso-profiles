@@ -1,4 +1,3 @@
-adwaita-icon-theme
 alsa-firmware
 dmidecode
 eom
@@ -156,6 +155,9 @@ xclip
 youtube-dl
 nautilus
 cpio
+
+qt5-styleplugins
+yay
 
 wmutils
 xdragon
