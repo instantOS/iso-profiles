@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo pacman -Scc
 cd
 curl -s https://raw.githubusercontent.com/instantOS/extra/master/directbuild.sh | bash
 cd
