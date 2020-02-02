@@ -1,6 +1,11 @@
 iso-profiles
 ==========================
 
+## direct build
+```sh
+curl -s https://raw.githubusercontent.com/instantOS/iso-profiles/master/directbuild.sh | bash
+```
+
 ###### profile.conf
 
 ~~~

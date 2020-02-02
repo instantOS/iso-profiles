@@ -160,6 +160,8 @@ cpio
 wmutils
 xdragon
 
+paperbash
+
 instantwm-manjaro
 instantlock-manjaro
 instantmenu-manjaro
@@ -168,3 +170,4 @@ instantdotfiles
 instantutils
 instantwallpaper
 instantassist
+instantthemes
