@@ -16,7 +16,6 @@ mozo
 gnome-disk-utility
 gnome-keyring
 ranger
-pacui
 mhwd-tui
 xterm
 gparted
@@ -40,7 +39,6 @@ manjaro-alsa
 manjaro-artwork
 manjaro-hotfixes
 manjaro-pulse
-manjaro-settings-manager-notifier
 >extra bauh
 mesa-demos
 mobile-broadband-provider-info
@@ -91,7 +89,6 @@ yelp
 >extra blueman
 >extra ffmpegthumbnailer
 >extra pa-applet
->extra network-manager-applet
 #>extra autoconf
 #>extra automake
 #>extra binutils
@@ -165,9 +162,9 @@ panther_launcher
 
 paperbash
 
-instantwm-manjaro
-instantlock-manjaro
-instantmenu-manjaro
+instantwm-arc
+instantlock-arc
+instantmenu-arc
 
 instantdotfiles
 instantutils
