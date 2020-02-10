@@ -40,11 +40,9 @@ manjaro-artwork
 manjaro-hotfixes
 manjaro-pulse
 >extra bauh
-mesa-demos
 mobile-broadband-provider-info
 modemmanager
 usb_modeswitch
->multilib lib32-mesa-demos
 netctl
 network-manager-applet
 networkmanager-openconnect
@@ -152,6 +150,7 @@ xclip
 youtube-dl
 nautilus
 cpio
+pavucontrol
 
 qt5-styleplugins
 yay
@@ -171,3 +170,5 @@ instantutils
 instantwallpaper
 instantassist
 instantthemes
+instantwidgets
+instantcursors
