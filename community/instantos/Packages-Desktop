@@ -12,7 +12,6 @@ matcha-gtk-theme
 kvantum-theme-matcha
 xcursor-breeze
 gedit
-mozo
 gnome-disk-utility
 gnome-keyring
 ranger
@@ -159,6 +158,7 @@ yay
 wmutils
 xdragon
 panther_launcher
+autojump
 
 paperbash
 
