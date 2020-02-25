@@ -1,6 +1,12 @@
 #!/bin/bash
-sudo pacman -Scc --noconfirm
+
 cd
+
+# first, clear the pacman cache
+curl -s https://raw.githubusercontent.com/instantOS/iso-profiles/master/pacclear.sh >/tmp/pacclear.sh
+chmod +x /tmp/pacclear.sh
+sudo /tmp/pacclear.sh
+
 curl -s https://raw.githubusercontent.com/instantOS/extra/master/directbuild.sh | bash
 cd
 
