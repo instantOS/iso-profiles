@@ -1,7 +1,12 @@
-#!/usr/bin/expect
+#!/bin/bash
 
-spawn pacman -Scc
-sleep 2
-send -- "j\r"
-sleep 2
-send -- "j\r"
+cd /var/cache/pacman/pkg || exit 1
+rm instant*
+rm paperbash*
+rm liveutils*
+rm xdragon*
+rm libwm-git*
+rm wmutils*
+rm libinput-gestures*
+rm autojump*
+rm panther_launcher*
