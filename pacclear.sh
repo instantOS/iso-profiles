@@ -10,3 +10,5 @@ rm wmutils*
 rm libinput-gestures*
 rm autojump*
 rm panther_launcher*
+rm urxvt*
+rm rxvt*
