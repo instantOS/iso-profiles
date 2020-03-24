@@ -14,3 +14,4 @@ rm urxvt*
 rm rxvt*
 rm rofi*
 rm ranger*
+rm *fira*
