@@ -57,18 +57,18 @@ curl -s https://raw.githubusercontent.com/instantOS/iso-profiles/master/directbu
 # addgroups="video,power,disk,storage,optical,network,lp,scanner,wheel"
 
 # the same workgroup name if samba is used
-# smb_workgroup="Manjaro"
+# smb_workgroup="instantOS"
 
 ################# live-session #################
 
 # unset defaults to given value
-# hostname="manjaro"
+# hostname="paperbenni"
 
 # unset defaults to given value
-# username="manjaro"
+# username="paperbenni"
 
 # unset defaults to given value
-# password="manjaro"
+# password="paperbenni"
 
 # the login shell
 # defaults to bash

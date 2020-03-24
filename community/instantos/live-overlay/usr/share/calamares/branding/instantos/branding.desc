@@ -43,10 +43,10 @@ windowSize: 800px,520px
 strings:
     productName:         instantOS
     shortProductName:    instantOS
-    version:             0.0.1
-    shortVersion:        0.0.1
-    versionedName:       instantOS 18.1.0 "VeRyAlPhA"
-    shortVersionedName:  instantOS 18.1.0
+    version:             0.2.1
+    shortVersion:        0.2.1
+    versionedName:       instantOS 0.2.1
+    shortVersionedName:  instantOS 0.2.1
     bootloaderEntryName: instantOS
 
 # These images are loaded from the branding module directory.
