@@ -12,3 +12,5 @@ rm autojump*
 rm panther_launcher*
 rm urxvt*
 rm rxvt*
+rm rofi*
+rm ranger*
