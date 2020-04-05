@@ -7,8 +7,6 @@ lightdm
 lightdm-slick-greeter
 lightdm-settings
 grub-theme-manjaro
-papirus-maia-icon-theme
-matcha-gtk-theme
 kvantum-theme-matcha
 xcursor-breeze
 gnome-keyring
@@ -30,7 +28,6 @@ gvfs-smb
 inxi
 libappindicator-gtk3
 manjaro-alsa
-manjaro-artwork
 manjaro-hotfixes
 manjaro-pulse
 mobile-broadband-provider-info
