@@ -11,7 +11,6 @@ papirus-maia-icon-theme
 matcha-gtk-theme
 kvantum-theme-matcha
 xcursor-breeze
-gedit
 gnome-keyring
 ranger
 mhwd-tui
@@ -23,7 +22,6 @@ gst-plugins-bad
 gst-plugins-base
 gst-plugins-good
 gst-plugins-ugly
-gucharmap
 gufw
 gvfs-afc
 gvfs-gphoto2
