@@ -1,6 +1,6 @@
 alsa-firmware
 dmidecode
-eom
+feh
 engrampa
 firefox
 lightdm
@@ -12,12 +12,10 @@ matcha-gtk-theme
 kvantum-theme-matcha
 xcursor-breeze
 gedit
-gnome-disk-utility
 gnome-keyring
 ranger
 mhwd-tui
 xterm
-gparted
 squashfs-tools
 grilo-plugins
 gst-libav
@@ -32,13 +30,11 @@ gvfs-gphoto2
 gvfs-mtp
 gvfs-smb
 inxi
-imagewriter
 libappindicator-gtk3
 manjaro-alsa
 manjaro-artwork
 manjaro-hotfixes
 manjaro-pulse
->extra bauh
 mobile-broadband-provider-info
 modemmanager
 usb_modeswitch
@@ -51,7 +47,6 @@ networkmanager-vpnc
 nss-mdns
 numlockx
 openresolv
-powertop
 pulseaudio-bluetooth
 pulseaudio-ctl
 pulseaudio-zeroconf
