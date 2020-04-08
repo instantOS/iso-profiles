@@ -4,6 +4,8 @@ feh
 engrampa
 firefox
 lightdm
+cups
+system-config-printer
 lightdm-slick-greeter
 lightdm-settings
 grub-theme-manjaro
