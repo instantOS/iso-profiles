@@ -12,7 +12,7 @@ ibuild push
 cd
 
 # iso build will fail without working repo
-if ! [ -e ~/stuff/extra/build/index.html ]; then
+if ! [ -e ~/instantbuild/index.html ]; then
     echo "error: repository build failed"
     exit 1
 fi
