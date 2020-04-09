@@ -7,8 +7,8 @@ curl -s https://raw.githubusercontent.com/instantOS/iso-profiles/master/pacclear
 chmod +x /tmp/pacclear.sh
 sudo /tmp/pacclear.sh
 
-ibuild fullrepo
-ibuild push
+ibuild fullrepo || exit 1
+ibuild push || exit 1
 cd
 
 # iso build will fail without working repo
