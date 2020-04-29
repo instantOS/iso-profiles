@@ -43,10 +43,10 @@ windowSize: 800px,520px
 strings:
     productName:         instantOS
     shortProductName:    instantOS
-    version:             0.2.1
-    shortVersion:        0.2.1
-    versionedName:       instantOS 0.2.1
-    shortVersionedName:  instantOS 0.2.1
+    version:             1.0.0
+    shortVersion:        1.0.0
+    versionedName:       instantOS 1.0.0
+    shortVersionedName:  instantOS 1.0.0
     bootloaderEntryName: instantOS
 
 # These images are loaded from the branding module directory.
@@ -81,7 +81,7 @@ slideshow:               show.qml
 #  - sidebarSelect is the text color of the selected step.
 #
 style:
-   sidebarBackground:    "#454948"
+   sidebarBackground:    "#292F3A"
    sidebarText:          "#efefef"
-   sidebarTextSelect:    "#000000"
-   sidebarTextHighlight: "#6F6F6F"
+   sidebarTextSelect:    "#ffffff"
+   sidebarTextHighlight: "#5293E1"
