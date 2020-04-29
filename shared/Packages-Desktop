@@ -39,3 +39,5 @@ xorg-server-utils
 xorg-twm
 xorg-utils
 xorg-xinit
+flatpakinstaller
+snap-dummy
