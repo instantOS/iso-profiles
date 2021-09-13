@@ -1,6 +1,9 @@
 iso-profiles
 ==========================
 
+# Deprecated!
+## instantOS is not based on manjaro anymore, the new iso profile can be found at https://github.com/instantOS/iso 
+
 ## direct build
 ```sh
 curl -s https://raw.githubusercontent.com/instantOS/iso-profiles/master/directbuild.sh | bash
